@@ -1,2 +1,2 @@
 # first-api-netcore-infectados
-Api que amazena dados de infectados pelo covid-19
+Api que armazena dados de infectados pelo covid-19
